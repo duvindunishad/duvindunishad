@@ -95,4 +95,4 @@
          onmouseout="this.style.transform='scale(1)';"/>
 </div>
 
-
+[![An image of @duvindunishad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/duvindunishad)](https://holopin.io/@duvindunishad)
